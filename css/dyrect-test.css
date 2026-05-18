@@ -1,0 +1,13 @@
+body {
+  border: 16px solid red !important;
+}
+
+.dy-test-message {
+  background: #2437f6 !important;
+  color: #ffffff !important;
+  padding: 24px !important;
+  border-radius: 18px !important;
+  font-family: "IBM Plex Sans", Arial, sans-serif !important;
+  font-size: 24px !important;
+  font-weight: 700 !important;
+}
